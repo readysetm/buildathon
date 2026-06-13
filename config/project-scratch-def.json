@@ -1,0 +1,10 @@
+{
+  "orgName": "VibeForce Build",
+  "edition": "Developer",
+  "features": ["SalesUser", "DevelopmentWave", "EnableSetPasswordInApi", "Einstein1AIPlatform"],
+  "settings": {
+    "lightningExperienceSettings": { "enableS1DesktopEnabled": true },
+    "mobileSettings": { "enableS1EncryptedStoragePref2": false },
+    "einsteinGptSettings": { "enableEinsteinGptPlatform": true }
+  }
+}
